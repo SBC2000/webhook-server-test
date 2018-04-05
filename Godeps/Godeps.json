@@ -1,0 +1,6 @@
+{
+	"ImportPath": "github.com/SBC2000/webhook-server-test",
+	"GoVersion": "go1.9",
+	"GodepVersion": "v79",
+	"Deps": []
+}
